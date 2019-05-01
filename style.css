@@ -1,6 +1,6 @@
 body {
-  font-size: 18px;
-  margin: 0px;
+  font-size: 18;
+  margin: 0;
   background-color:#e6f7ff;
 }
 .dark { 
@@ -60,4 +60,11 @@ input[type=submit]:hover {
   padding-top: 10px;
   max-height: 400px; 
   overflow: auto;
+}
+#right {
+  background-color: #fff; 
+  color: #2f2f2f;
+  text-align: center;
+  padding: 5px;
+  margin:Top;
 }
